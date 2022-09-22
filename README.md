@@ -1,4 +1,4 @@
-# Tienda-creada-con-WordPress
+# Tienda creada con WordPress
 Tienda de Arte de Carlos Almor
 # Descripción del proyecto Tienda de Arte de Carlos Almor 
 
